@@ -53,7 +53,7 @@ describe('Simon says', function() {
 			expect(simon.firstWord("Hello World")).toEqual("Hello");
 		});
 
-		it('tells us the first word of "oh dear" is "oh"', function() {
+	  it('tells us the first word of "oh dear" is "oh"', function() {
 			expect(simon.firstWord("oh dear")).toEqual("oh");
 		});
 	});
