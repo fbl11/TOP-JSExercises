@@ -12,3 +12,7 @@ ctof(0) // celsius to fahrenheit, should return 32
 
 ## hints
 The math here is fairly straightforward.. just google the formula and implement it in the code
+
+Celsius to Farenheit: T(°F) = T(°C) × 1.8 + 32
+F(°) = 20°C × 1.8 + 32 = 68 °F 
+Farenheit to Celsius: T(°C) = (T(°F) - 32) / 1.8
